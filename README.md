@@ -2,18 +2,18 @@
 
 > **JSO Phase-2 · Agentic HR Consultation Monitoring System**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://care-agent-olpzt4l2q-mdsvrs-projects.vercel.app/dashboard)
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mdsvr/care-agent)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://careagent1.vercel.app/dashboard)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mdsvr/careagent)
 
 ## 🌐 Live Links
 
 | | Link |
 |---|---|
-| 🚀 **Live App (Vercel)** | https://care-agent-olpzt4l2q-mdsvrs-projects.vercel.app/dashboard |
-| 💻 **GitHub Repository** | https://github.com/mdsvr/care-agent |
+| 🚀 **Live App (Vercel)** | https://careagent1.vercel.app/dashboard |
+| 💻 **GitHub Repository** | https://github.com/mdsvr/careagent |
 
 ### Quick Demo Guide
-1. Go to [**Upload Transcript**](https://care-agent-olpzt4l2q-mdsvrs-projects.vercel.app/upload)
+1. Go to [**Upload Transcript**](https://careagent1.vercel.app/upload)
 2. Click **"Load Sample Transcript (Demo)"**
 3. Click **"Run AI Analysis"** — watch all 4 agents process in real-time
 4. View scores, tone chart, risk flags, and ethics note
