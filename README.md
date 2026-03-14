@@ -1,6 +1,26 @@
-# CARE: Consultation Analysis & Recommendation Engine
+# CARE Agent — Consultation Analysis & Recommendation Engine
 
-This is a functional prototype of the CARE Agentic AI System, designed to monitor, analyze, and improve HR consultations.
+> **JSO Phase-2 · Agentic HR Consultation Monitoring System**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://care-agent-olpzt4l2q-mdsvrs-projects.vercel.app/dashboard)
+[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mdsvr/care-agent)
+
+## 🌐 Live Links
+
+| | Link |
+|---|---|
+| 🚀 **Live App (Vercel)** | https://care-agent-olpzt4l2q-mdsvrs-projects.vercel.app/dashboard |
+| 💻 **GitHub Repository** | https://github.com/mdsvr/care-agent |
+
+### Quick Demo Guide
+1. Go to [**Upload Transcript**](https://care-agent-olpzt4l2q-mdsvrs-projects.vercel.app/upload)
+2. Click **"Load Sample Transcript (Demo)"**
+3. Click **"Run AI Analysis"** — watch all 4 agents process in real-time
+4. View scores, tone chart, risk flags, and ethics note
+
+---
+
+A production-grade prototype of the CARE Agentic AI System, designed to monitor, analyze, and improve HR consultations using a 4-stage multi-agent pipeline.
 
 ## Features
 - **Upload Transcript:** Paste or upload speaker-diarized text.
